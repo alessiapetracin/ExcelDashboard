@@ -1,4 +1,4 @@
-# ExcelDashboard
+# RetailStores
 This project aims to create an interactive dashboard, describing sales and profits for a retail store.
 The dashboard leverages on data from multiple sheets, namely *Sales-2016*, *Sales-2017*, *Sales-2018* and *Sales-2019*, reporting sales for each year in the 2016-2019 time-period. Using Slicers, users can easily filter and analyze the data, gaining insights into sales and profit performance for each product by city, country and time-period. 
 
